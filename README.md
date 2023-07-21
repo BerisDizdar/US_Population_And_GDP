@@ -8,7 +8,6 @@
 ### Description of Notebook
 This notebook contains U.S. population data from 30 metro areas from 2000 to 2020, as well as GDP data for 2021. The data was collected from the Bureau of Economic Analysis website (bea.gov). Analysis of 2020 U.S. population data from select metros will show current population, and their differences. Analysis will also show how much the population has changed over two decades, and weathe or not the population has increased or decreased. Analysis of gross domestic product (GDP) will show the ranking of each metro area from highest to lowest. It will show how many metros have a GDP over 1 trillion dollars, 500 billion dollars, and how many have a GDP under 100 billion dollars. 
 
-
 ## Required Programs
 ### The following programs must be installed in order to run this project
 Download the latest version of python from https://www.python.org/downloads/ and follow the recommended steps. 
@@ -50,7 +49,7 @@ Use pip3 to install Plotly:
 pip3 install plotly.
 
 To update Plotly:
-pip3 install --upgrade pip
+pip3 install --upgrade pip.
 
 ### If using a virtual environment or conda environment
 
@@ -63,12 +62,12 @@ Open terminal, once inside, type, pip3 instal pigar, then press enter.
 Next, type, pigar generate, then press enter.
 
 ## Features Required for Project by CodeKY
-Feature 1: Read in local csv file using Pandas read_function.
+Feature 1: Read in local CSV file using Pandas read_function.
 
-Feature 2: Use built in Pandas functions to remove unnecessary columns, change column names, create new column from merged data, quary data, use merge function to combine two datasets.
+Feature 2: Use built in Pandas functions to remove unnecessary columns, change column names, create new column from merged data, quary data, use merge function to combine two datasets, quary data to find new information from data.
 
-Feature 3: Use Pandas to perform calculations on each csv dataset. Use mean(), max(), min(), sum(), and round() functions.
+Feature 3: Use Plotly to visualize data and create graphs allowing user to better understand data.
 
-Feature 4: Create plot and bar graphs with Matplotlib.
+Feature 4: Create data dictionary.
 
 Feature 5: Add Markdwons on JupyterNotebook and description of data analysis.
