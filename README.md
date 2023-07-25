@@ -6,7 +6,7 @@
 2. Open the 'US_Metro_Pop_GDP.ipynb' file.
 
 ### Description of Notebook
-This notebook contains U.S. population data from 30 metro areas from 2000 to 2020, as well as GDP data for 2021. The data was collected from the Bureau of Economic Analysis website (bea.gov). Analysis of 2020 U.S. population data from select metros will show current population, and their differences. Analysis will also show how much the population has changed over two decades, and weathe or not the population has increased or decreased. Analysis of gross domestic product (GDP) will show the ranking of each metro area from highest to lowest. It will show how many metros have a GDP over 1 trillion dollars, 500 billion dollars, and how many have a GDP under 100 billion dollars. 
+This notebook contains U.S. population data from 30 metro areas from 2000 to 2020, as well as GDP data for 2021. The data was collected from the Bureau of Economic Analysis website (bea.gov). Analysis of 2020 U.S. population data from select metros will show current population, and their differences. Analysis will also show how much the population has changed over two decades, and whether or not the population has increased or decreased. Analysis of gross domestic product (GDP) will show the ranking of each metro area from highest to lowest. It will show how many metros have a GDP over 1 trillion dollars, 500 billion dollars, and how many have a GDP under 100 billion dollars. 
 
 ## Required Programs
 ### The following programs must be installed in order to run this project
@@ -29,7 +29,7 @@ Step 1: Download Visual Studio Code from https://code.visualstudio.com and click
 
 Step 2: Select the version that corresponds to your operating system.
 
-Step 3: Follow the instalation instructions.
+Step 3: Follow the installation instructions.
 
 Step 4: Once Visual Studio Code is installed click the Extensions icon, type in Jupyter Notebook.
 
@@ -64,10 +64,10 @@ Next, type, pigar generate, then press enter.
 ## Features Required for Project by CodeKY
 Feature 1: Read in local CSV file using Pandas read_function.
 
-Feature 2: Use built in Pandas functions to remove unnecessary columns, change column names, create new column from merged data, quary data, use merge function to combine two datasets, quary data to find new information from data.
+Feature 2: Use built in Pandas functions to remove unnecessary columns, change column names, create new column from merged data, query data, use merge function to combine two datasets, query data to find new information from data.
 
 Feature 3: Use Plotly to visualize data and create graphs allowing user to better understand data.
 
 Feature 4: Create data dictionary.
 
-Feature 5: Add Markdwons on JupyterNotebook and description of data analysis.
+Feature 5: Add Markdowns on Jupyter Notebook and description of data analysis. 
