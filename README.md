@@ -51,13 +51,16 @@ pip3 install plotly.
 To update Plotly:
 pip3 install --upgrade pip.
 
+Use pip3 to install Numpy:
+pip3 install numpy.
+
 ### If using a virtual environment or conda environment
 
 Use pip3 to install ipykernel:
 pip3 install ipykernel.
 
 ### To generate a requirements.txt file
-Open terminal, once inside, type, pip3 instal pigar, then press enter.
+Open terminal, once inside, type, pip3 install pigar, then press enter.
 
 Next, type, pigar generate, then press enter.
 
